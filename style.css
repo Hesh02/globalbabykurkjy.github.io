@@ -1,0 +1,80 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.headerclass{
+    width: 100%;   
+}
+
+.stain{
+    text-decoration: none;
+    font-size: 30px;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    background: black;
+}
+
+.stain li{
+    display: inline;
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
+.stain li a{
+    text-decoration: none;
+    font-size: 30px;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+}
+
+body{
+    height: 5000px;
+    background-repeat: no-repeat;
+}
+
+#name{
+    padding-top: 30px;
+    padding-bottom: 250px;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    background: url(http://w4.wallls.com/uploads/original/201603/02/wallls.com_97000.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+#home {
+    margin-top: 200px;
+}
+
+#home2{
+    font-size: 1px;
+    padding-right: 1200px;
+    color: black;
+}
+
+.nametoaboutfiller{
+    padding-bottom: 190px;
+    color: white;
+}
+
+#about{
+    font-family: 'Poppins', sans-serif;
+    font-size: 50px;
+    text-align: center;
+    border-radius: 5px;
+    border: 15px grey solid;
+    background-color: darkgrey;
+}
+
+#abouttext{
+    padding-top: 50px;
+    font-size: 23px;
+    font-family: 'Poppins', sans-serif;
+    margin-left: 60px;
+    margin-right: 60px;
+    background-color: #ffffff
+}
